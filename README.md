@@ -3,7 +3,7 @@
 Part of the **MakoTimer Network**: a distributed system for family task management, scheduling, and real-time updates.  
 `nexus` is the **real-time embedded gateway** — the critical link between the cloud-connected `cortex` and the offline `portal` and `slate`.
 
-Built in **Rust on Zephyr RTOS** for the **nRF7002-DK**, it provides **Wi-Fi connectivity to `cortex`**, **BLE GATT bridging to `portal`**, **sensor integration**, and **secure data routing** — all in a low-power, reliable package.
+Built in **Rust (planned) on Zephyr RTOS** for the **nRF7002-DK**, it provides **Wi-Fi connectivity to `cortex`**, **BLE GATT bridging to `portal`**, **sensor integration**, and **secure data routing** — all in a low-power, reliable package.
 
 ---
 
